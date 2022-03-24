@@ -12,7 +12,7 @@ public class CreateCampaignTest {
 	@Test(groups = "smokeTest")
 	public void campaignWithContactTest() {
 		System.out.println("Campaign is created with contact");
-		System.out.println("changes done again");
+		System.out.println("changes done again and again");
 		
 	
 	}
