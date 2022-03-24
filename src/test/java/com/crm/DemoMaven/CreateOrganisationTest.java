@@ -15,5 +15,8 @@ public class CreateOrganisationTest {
 	@Test(groups = "smokeTest")
 	public void orgWithProduct() {
 		System.out.println("Here organisation is created with product");
+	
+	System.out.println("send a pull request");
+	
 	}
 }
